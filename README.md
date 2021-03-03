@@ -47,7 +47,7 @@ Após uma reunião com equipe, foi definido que a melhor solução, com menor es
 - Não é permitido uso dos frameworks Spring e Quarkus;
 
 
-### _Entregas: O que esperamo receber_
+### _Entregas: O que esperamos receber_
 - Se ao analisar o desafio, você acreditar que não conseguirá concluir, nos comunique com uma proposta de prazo dentro da sua realidade.
 - Precisamos que sejam disponibilizados os fontes da aplicação, sugerimos que seja em um repositórios de fontes, ex: github
 - É muito importante que consigamos testar sua aplicação funcionando, então que tal uma documentação básica (bem simples) de compilação e instalação/execução, scripts sql se ouver, etc…
