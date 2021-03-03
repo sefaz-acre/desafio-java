@@ -2,7 +2,7 @@
 ### _Posição: Analista Desenvolvedor Java Pl/Sr_
 
 ## Introdução
-<p>Nossa equipe lida diariamente com a sustentação e criação de novos produtos. Uma das principais tecnologias usada é o Java, que também é o foco desse processo seletivo. <br/>
+<p>Nossa equipe lida, diariamente, com a sustentação e criação de novos produtos. Uma das principais tecnologias usada é o Java, que também é o foco desse processo seletivo. <br/>
 Dito isso, gostaríamos de entender um pouco do seu grau de conhecimento e como podemos explorar todo o seu potencial, e com esse intuito, bolamos esse pequeno desafio. Logo abaixo, vamos simular, em escala bem simples, um cenário de uma implementação bem parecido com o que lidamos no dia a dia, esperamos que para essa implementação seja construída do zero uma <b>aplicação web</b> bem simples. 
 </p>
 
@@ -12,11 +12,11 @@ Ao término, vamos avaliar os seguintes pontos:
 - Tratamento de exceções;
 - POO;
 - Padrões de projeto utilizados;
-- Clean code (qualidade de codigo);
+- Clean code (qualidade de código);
 
 Será considerado como diferencial o uso de:
 - Controle de versão;
-- Testes unitarios;
+- Testes unitários;
 - Gerenciador de dependencias;
 
 Então, vamos lá ;-) 
